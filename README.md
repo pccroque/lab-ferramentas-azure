@@ -9,7 +9,7 @@ O objetivo é desenvolver habilidades práticas na criação de soluções basea
 
 ### Criar um projeto no portal do Azure AI Foundry
 
-1. Em um navegador da Web, abra o **portal do Azure AI Foundry** e entre usando suas credenciais do Azure. 
+1. No **portal do Azure AI Foundry**, entre com suas credenciais. 
 	https://ai.azure.com
 2. Em seguida, escolha a opção para **criar** um *novo recurso do hub de IA*.
 	https://ai.azure.com/managementCenter/allResources
@@ -24,9 +24,9 @@ O objetivo é desenvolver habilidades práticas na criação de soluções basea
       - Europa Ocidental
       - Oeste dos EUA<br>
 Aguarde até que seu projeto e hub sejam criados.
-6. Quando o projeto for criado, você será levado a uma *página Visão geral* dos detalhes do projeto.
+6. Após a criação do projeto, você será levado a uma *página Visão geral* dos detalhes do projeto.
 7. No menu à esquerda da tela, selecione **Playgrounds**.
-8. Na página *Playgrounds*, selecione o bloco **Playground de Fala** para experimentar alguns recursos do Azure AI Speech.
+8. Na página *Playgrounds*, selecione **Playground de Fala** para experimentar alguns recursos do Azure AI Speech.
 
 ### Explorar a conversão de fala em texto no Playground de Fala do Azure AI Foundry
 
