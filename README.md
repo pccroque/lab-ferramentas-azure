@@ -24,7 +24,7 @@ O objetivo é desenvolver habilidades práticas na criação de soluções basea
       - Europa Ocidental
       - Oeste dos EUA<br>
 Aguarde até que seu projeto e hub sejam criados.
-6. Após a criação do projeto, você será levado a uma *página Visão geral* dos detalhes do projeto.
+6. Após a criação do projeto, será apresentado uma página de *Visão Geral* dos detalhes do projeto.
 7. No menu à esquerda da tela, selecione **Playgrounds**.
 8. Na página *Playgrounds*, selecione **Speech Playground** para experimentar alguns recursos do Azure AI Speech.
 
