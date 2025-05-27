@@ -21,7 +21,7 @@ Criar um projeto no portal do Azure AI Foundry
       - França Central
       - Coreia Central
       - Europa Ocidental
-      - Oeste dos EUA
+      - Oeste dos EUA<br>
 Aguarde até que seu projeto e hub sejam criados.
 6. Quando o projeto for criado, você será levado a uma página Visão geral dos detalhes do projeto.
 7. No menu à esquerda da tela, selecione Playgrounds.
