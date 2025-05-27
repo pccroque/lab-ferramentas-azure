@@ -52,11 +52,11 @@ Neste exercício, você experimentou os serviços de Fala de IA do Azure no Play
 2. Em *Amostra*, copie e cole a seguinte revisão:
 
 Código - Amostra:<br>
-"""
+```
 Tired hotel with poor service
 The Royal Hotel, London, United Kingdom
 5/6/2018
 This is an old hotel (has been around since 1950's) and the room furnishings are average - becoming a bit old now and require changing. The internet didn't work and had to come to one of their office rooms to check in for my flight home. The website says it's close to the British Museum, but it's too far to walk.
-"""
+```
 
 3. Selecione **Executar**. Revise a saída. Observe na seção *Detalhes* como as entidades extraídas vêm com informações adicionais, como pontuações de tipo e confiança. A pontuação de confiança representa a probabilidade de que o tipo identificado realmente pertença a essa categoria.
