@@ -51,9 +51,8 @@ Neste exercício, você experimentou os serviços de Fala de IA do Azure no Play
 1. No Language playground, selecione **Extrair informações**. Em seguida, selecione o bloco **Extrair entidades nomeadas**.
 2. Em *Amostra*, copie e cole a seguinte revisão:
 
-
+*Amostra*
 ```
-Código
 Tired hotel with poor service
 The Royal Hotel, London, United Kingdom
 5/6/2018
