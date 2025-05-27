@@ -28,17 +28,17 @@ Aguarde até que seu projeto e hub sejam criados.
 7. No menu à esquerda da tela, selecione **Playgrounds**.
 8. Na página *Playgrounds*, selecione **Speech Playground** para experimentar alguns recursos do Azure AI Speech.
 
-### Explorar a conversão de fala em texto no Playground de Fala do Azure AI Foundry
+### Explorar a conversão de fala em texto no Speech Playground do Azure AI Foundry
 
 Vamos experimentar a *conversão de fala em texto* no Speech Playground do Azure AI Foundry.
 
-1. Na página Fala, role para baixo e selecione **Transcrição em tempo real** em *Experimentar recursos de fala*. Você será levado ao *Speech Playground*.
+1. Na página Speech, role para baixo e selecione **Transcrição em tempo real** em *Experimentar recursos do Speech*. Você será levado ao *Speech Playground*.
 2. Selecione https://aka.ms/mslearn-speech-files para baixar **speech.zip**. Abra a pasta.
 3. Em *Carregar arquivos*, selecione **Procurar arquivos** e navegue até a pasta onde você salvou o arquivo. Selecione **WhatAICanDo.m4a** e, em seguida, **Abrir**.
 4. O serviço de Fala transcreve e exibe o texto em tempo real. Se você tiver áudio em seu computador, poderá ouvir a gravação enquanto o texto está sendo transcrito.
 5. Revise a saída, que deve ter reconhecido e transcrito com êxito o áudio em texto.<br>
    
-Foi apresentado os serviços do Azure Ai Speech no Playground do Azure AI Foundry Speech. Em seguida, você usou a transcrição em tempo real para transcrever uma gravação de áudio. Você pôde ver a transcrição do texto sendo gerada enquanto o arquivo de áudio era reproduzido.
+Foi apresentado os serviços do Azure AI Speech no Speech Playground do Azure AI Foundry. Em seguida, foi usada a transcrição em tempo real para transcrever uma gravação de áudio. A transcrição do texto pode ser vista sendo gerada, enquanto o arquivo de áudio é resproduzido.
 
 ## Analisar texto no portal do Azure AI Foundry
 
