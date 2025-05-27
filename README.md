@@ -5,7 +5,7 @@
 Praticar e aprofundar o uso das ferramentas Azure Speech Studio e Language Studio, focando na análise de fala e linguagem natural. 
 O objetivo é desenvolver habilidades práticas na criação de soluções baseadas em inteligência artificial voltadas para voz e linguagem. 
 
-## Explorar a Fala no portal do Azure AI Foundry
+## Explorar o Speech no portal do Azure AI Foundry
 
 ### Criar um projeto no portal do Azure AI Foundry
 
@@ -26,7 +26,7 @@ O objetivo é desenvolver habilidades práticas na criação de soluções basea
 Aguarde até que seu projeto e hub sejam criados.
 6. Após a criação do projeto, você será levado a uma *página Visão geral* dos detalhes do projeto.
 7. No menu à esquerda da tela, selecione **Playgrounds**.
-8. Na página *Playgrounds*, selecione **Playground de Fala** para experimentar alguns recursos do Azure AI Speech.
+8. Na página *Playgrounds*, selecione **Speech Playground** para experimentar alguns recursos do Azure AI Speech.
 
 ### Explorar a conversão de fala em texto no Playground de Fala do Azure AI Foundry
 
@@ -45,9 +45,9 @@ Neste exercício, você experimentou os serviços de Fala de IA do Azure no Play
 ### Criar um projeto no portal do Azure AI Foundry
 *Da mesma forma do exemplo anterior.*
 
-### Extrair entidades nomeadas com a Linguagem de IA do Azure no portal do Azure AI Foundry
+### Extrair entidades nomeadas com Azure AI Language no portal do Azure AI Foundry
 
-*Entidades nomeadas* são palavras que descrevem pessoas, lugares e objetos com nomes próprios. Vamos usar a funcionalidade de extração de entidade nomeada da Linguagem de IA do Azure para identificar tipos de informações em uma revisão.
+*Entidades nomeadas* são palavras que descrevem pessoas, lugares e objetos com nomes próprios. Vamos usar a funcionalidade de extração de entidade nomeada do Azure AI Language para identificar tipos de informações em uma revisão.
 1. No Language playground, selecione **Extrair informações**. Em seguida, selecione o bloco **Extrair entidades nomeadas**.
 2. Em *Amostra*, copie e cole a seguinte revisão:
 
