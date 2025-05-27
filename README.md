@@ -38,7 +38,7 @@ Vamos experimentar a *conversão de fala em texto* no Speech Playground do Azure
 4. O serviço de Fala transcreve e exibe o texto em tempo real. Se você tiver áudio em seu computador, poderá ouvir a gravação enquanto o texto está sendo transcrito.
 5. Revise a saída, que deve ter reconhecido e transcrito com êxito o áudio em texto.<br>
    
-Neste exercício, você experimentou os serviços de Fala de IA do Azure no Playground de Fala do Azure AI Foundry. Em seguida, você usou a transcrição em tempo real para transcrever uma gravação de áudio. Você pôde ver a transcrição do texto sendo gerada enquanto o arquivo de áudio era reproduzido.
+Foi apresentado os serviços do Azure Ai Speech no Playground do Azure AI Foundry Speech. Em seguida, você usou a transcrição em tempo real para transcrever uma gravação de áudio. Você pôde ver a transcrição do texto sendo gerada enquanto o arquivo de áudio era reproduzido.
 
 ## Analisar texto no portal do Azure AI Foundry
 
