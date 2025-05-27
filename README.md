@@ -25,7 +25,7 @@ O objetivo é desenvolver habilidades práticas na criação de soluções basea
       - Oeste dos EUA<br>
 Aguarde até que seu projeto e hub sejam criados.
 6. Quando o projeto for criado, você será levado a uma *página Visão geral* dos detalhes do projeto.
-7. No menu à esquerda da tela, selecione **Playgrounds*.
+7. No menu à esquerda da tela, selecione **Playgrounds**.
 8. Na página *Playgrounds*, selecione o bloco **Playground de Fala** para experimentar alguns recursos do Azure AI Speech.
 
 ### Explorar a conversão de fala em texto no Playground de Fala do Azure AI Foundry
