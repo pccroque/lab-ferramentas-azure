@@ -8,7 +8,7 @@ O objetivo é desenvolver habilidades práticas na criação de soluções basea
 # Explorar a Fala no portal do Azure AI Foundry
 
 Criar um projeto no portal do Azure AI Foundry
-1. Em um navegador da Web, abra o portal do Azure AI Foundry em e entre usando suas credenciais do Azure. 
+1. Em um navegador da Web, abra o portal do Azure AI Foundry e entre usando suas credenciais do Azure. 
 	https://ai.azure.com
 2. Em seguida, escolha a opção para criar um novo recurso do hub de IA.https://ai.azure.com/managementCenter/allResources
 3. No assistente Criar um projeto, insira um nome válido para o projeto e, se um hub existente for sugerido, selecione a opção para criar um novo.
